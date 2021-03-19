@@ -75,7 +75,7 @@ ipywidgets==6.0.0
 iso8601==0.1.11
 itsdangerous==0.24
 itypes==1.1.0
-Jinja2==2.9.5
+Jinja2==2.11.3
 jsonfield==2.0.1
 jsonschema==2.6.0
 jupyter==1.0.0
