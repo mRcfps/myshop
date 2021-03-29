@@ -124,7 +124,7 @@ PyDispatcher==2.0.5
 pyflakes==1.5.0
 pygal==2.3.1
 pygal-maps-world==1.0.2
-Pygments==2.2.0
+Pygments==2.7.4
 pymongo==3.4.0
 PyMsgBox==1.0.3
 pyobjc==3.2.1
