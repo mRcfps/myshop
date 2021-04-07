@@ -10,7 +10,7 @@ beautifulsoup4==4.5.3
 billiard==3.5.0.2
 bleach==1.4.3
 blessings==1.6
-bottle==0.12.13
+bottle==0.12.19
 bpython==0.16
 celery==4.0.2
 cffi==1.10.0
