@@ -35,7 +35,7 @@ django-bootstrap3==7.1.0
 django-braces==1.11.0
 django-ckeditor==5.2.2
 django-crispy-forms==1.6.1
-django-debug-toolbar==1.7
+django-debug-toolbar==1.11.1
 django-embed-video==1.1.2
 django-filter==0.14.0
 django-formtools==2.0
